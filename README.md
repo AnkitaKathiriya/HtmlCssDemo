@@ -1,4 +1,4 @@
 # HtmlCssDemo
 This is my first Git Repository.
 <br>
-this my first html css demo on git.
+this is my first html css demo on git.
